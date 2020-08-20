@@ -1,4 +1,6 @@
-### Hello Everyone!!!
+<p align="center">
+  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+</p>
 
 
 Myself Rajat Tiwari
