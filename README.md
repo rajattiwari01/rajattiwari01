@@ -35,8 +35,7 @@
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:chandrikadeb7@gmail.com)</code>    
-:star: <code>[Twitter](https://twitter.com/chandrikadeb7)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/chandrika-deb/)</code>  
-:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code>  
-:star: <code>[CodePen](https://codepen.io/chandrikadeb7)</code>  
+:star: <code>[Mail](mailto:rajattiwari785@gmail.com)</code>    
+:star: <code>[Twitter](https://twitter.com/rajat_tiwari__)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/-rajat-tiwari/)</code>  
+:star: <code>[CodePen](https://github.com/rajattiwariii)</code>  
