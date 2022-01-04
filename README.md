@@ -3,7 +3,7 @@
 </p>
 
 
-### Wanna stalk my website:question::point_right: [Click Here](https://rajattiwariii.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://rajattiwari01.github.io/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Data Science Intern at [Technocolabs]"</code>
@@ -30,6 +30,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajattiwariii&hide=java,html,css&theme=radical)](https://github.com/rajattiwariii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajattiwari01&hide=java,html,css&theme=radical)](https://github.com/rajattiwari01/github-readme-stats)
 
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajattiwariii&theme=radical)](https://github.com/rajattiwariii/github-readme-stats)
+[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajattiwari01&theme=radical)](https://github.com/rajattiwari01/github-readme-stats)
