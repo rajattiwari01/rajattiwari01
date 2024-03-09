@@ -7,10 +7,10 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building StayX.
+- 🔭 I’m currently building ParkX.
 - 🌱 I’m currently learning more about Advance DSA.
 - 👯 I’m looking to collaborate on [hashnode](https://rajattiwari.hashnode.dev/).
-- 🤔 I’m looking for help with StayX.
+- 🤔 I’m looking for help with ParkX.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
